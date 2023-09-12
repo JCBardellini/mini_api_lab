@@ -1,0 +1,22 @@
+#products {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px ;
+}
+#products .info {
+    font-size: large;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    color: blue;
+    cursor: pointer;
+}
+#product-img {
+    width: 200px
+}
+
+.description {
+    width: 200px;
+    text-align: left;
+}
